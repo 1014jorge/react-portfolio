@@ -26,7 +26,7 @@ const Work = () => {
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="https://1014jorge.github.io/Work-Day-Planner/">
-                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live App</button>
                                 </a>
                                 <a href="https://github.com/1014jorge/Work-Day-Planner/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'> GitHub
@@ -44,7 +44,7 @@ const Work = () => {
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="https://1014jorge.github.io/Quiz-Challenge/">
-                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live App</button>
                                 </a>
                                 <a href="https://github.com/1014jorge/Quiz-Challenge">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'> GitHub
@@ -62,7 +62,7 @@ const Work = () => {
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="https://1014jorge.github.io/Multi-City-Weather-Dashboard/">
-                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live App</button>
                                 </a>
                                 <a href="https://github.com/1014jorge/Multi-City-Weather-Dashboard/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'> GitHub
@@ -80,7 +80,7 @@ const Work = () => {
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="https://1014jorge.github.io/JavaScript-Challenge-3/">
-                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live App</button>
                                 </a>
                                 <a href="https://github.com/1014jorge/JavaScript-Challenge-3/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'> GitHub
@@ -98,7 +98,7 @@ const Work = () => {
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="https://taking-notes2023-642249d92aed.herokuapp.com/notes">
-                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live App</button>
                                 </a>
                                 <a href="https://github.com/1014jorge/Note-Taker2023">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'> GitHub
@@ -116,7 +116,7 @@ const Work = () => {
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="https://rambriz91.github.io/kitchen-repo/ ">
-                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live App</button>
                                 </a>
                                 <a href=" https://github.com/rambriz91/kitchen-repo">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'> GitHub
