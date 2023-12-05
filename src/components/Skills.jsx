@@ -1,4 +1,3 @@
-import React from 'react'
 
 import Github from '../assets/github.png';
 import HTML from '../assets/html.png';
