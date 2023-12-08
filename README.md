@@ -56,5 +56,7 @@ Deployed App Link: https://peppy-praline-f5078e.netlify.app/
 
 email: jorge.1014@gmail.com
 
+## Future Development/Bugs
 
+Portfolio is a work in progress. Resume needs to be uploaded, more projects need to be added, update styling needed.
   
