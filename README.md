@@ -54,6 +54,8 @@ GitHub:  1014jorge
 
 Deployed App Link: https://peppy-praline-f5078e.netlify.app/
 
+Repo Link: https://github.com/1014jorge/react-portfolio
+
 email: jorge.1014@gmail.com
 
 ## Future Development/Bugs
