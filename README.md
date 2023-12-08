@@ -50,7 +50,7 @@ Link: https://opensource.org/licenses/MIT
 ## Questions
 If you have any questions regarding this application here are my contact details:
 
-GitHub:  1014jorge
+GitHub:  https://github.com/1014jorge
 
 Deployed App Link: https://peppy-praline-f5078e.netlify.app/
 
