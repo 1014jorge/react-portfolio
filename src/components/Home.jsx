@@ -10,7 +10,7 @@ const Home = () => {
         <p className='text-[#CA3433] text-3xl'>Hi My name is</p>
         <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>Jorge Gonzalez</h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#7e869e]'>I'm a Full Stack Developer.</h2>
-        <p className='text-[#8892b0] py-4 max-w-[700px]'>I am a full stack developer focusing on my practicing my new coding skills.</p>
+        <p className='text-[#8892b0] py-4 max-w-[700px]'>I am a full stack developer focusing on practicing my new coding skills.</p>
 
 
         <div>
