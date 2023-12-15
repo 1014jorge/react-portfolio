@@ -1,10 +1,10 @@
 
 import WeatherImg from '../assets/weatherappimg.png'
 import WorkdayImg from '../assets/workdayimg.png'
-import JavaQuizimg from '../assets/javaquizimg.png'
 import PasswordGenImg from '../assets/passwordgenimg.png'
 import NoteTakerimg from '../assets/NoteTakerimg.png'
 import KitchenRepo from '../assets/KitchenRepo.gif'
+import RadioHeadz from '../assets/radioheadz-high-resolution-logo.png'
 
 
 const Work = () => {
@@ -36,17 +36,17 @@ const Work = () => {
                             </div>
                         </div>
                     </div>
-                    <div style={{ backgroundImage: `url(${JavaQuizimg})` }} className='shadow-lg shadow-[#040c16] group countainer rounded-md flex justify-center items-center mx-auto content-div'>
+                    <div style={{ backgroundImage: `url(${RadioHeadz})` }} className='shadow-lg shadow-[#040c16] group countainer rounded-md flex justify-center items-center mx-auto content-div'>
 
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Javascript Quiz
+                                RadioHeadz
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="https://1014jorge.github.io/Quiz-Challenge/">
+                                <a href="https://stark-stream-72608-71dba89eb714.herokuapp.com/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live App</button>
                                 </a>
-                                <a href="https://github.com/1014jorge/Quiz-Challenge">
+                                <a href="https://github.com/Sal1316/radioheadz">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'> GitHub
 
                                     </button>
